@@ -1,7 +1,7 @@
 # Node-Hangman
 
 ## Description
-This is CLI Hangman game played through Node.js using JavaScript constructors.
+This is a CLI Hangman game played through Node.js using JavaScript constructors.
 
 
 ## Technology used
@@ -11,7 +11,8 @@ This is CLI Hangman game played through Node.js using JavaScript constructors.
 
 ### Prerequisites
 In order to be able to run this application, users must have Node installed on their machine. 
-*Download the latest version of Node: https://nodejs.org/en/
+
+* Download the latest version of Node: https://nodejs.org/en/
 
 
 ## Built With
